@@ -74,9 +74,6 @@ The model was trained and evaluated using a dataset of **2,065 MRI images** (aft
   - False Positives reduced from ~10% to ~6%.
   - False Negatives reduced from ~8% to ~4%.
 
-### Example Visualizations
-Heatmaps generated using Grad-CAM highlight the regions of interest in MRI scans:
-![CAM Visualization](link_to_image)
 
 ---
 
@@ -88,29 +85,7 @@ git clone https://github.com/your-username/brain-tumor-detection.git
 cd brain-tumor-detection
 ```
 
-### Install Dependencies
-Install the required libraries using `requirements.txt`:
-```bash
-pip install -r requirements.txt
-```
-
-### Run the Model
-1. Prepare your dataset in the `data/` folder.
-2. Train the model:
-   ```bash
-   python train.py
-   ```
-3. Test the model:
-   ```bash
-   python test.py
-   ```
-
-### Visualize CAM Heatmaps
-```bash
-python visualize_cam.py
-```
-
----
+### Run the python notebook on google colab or jupyter
 
 ## Future Work
 1. Extend to **multiclass classification** (e.g., distinguishing between benign and malignant tumors).
@@ -128,6 +103,4 @@ python visualize_cam.py
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
-Feel free to adapt this template to your specific project details. Let me know if you’d like further assistance!
