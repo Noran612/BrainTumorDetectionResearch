@@ -70,10 +70,6 @@ The model was trained and evaluated using a dataset of **2,065 MRI images** (aft
 ### Performance Metrics
 - **Validation Accuracy**: ~98.12%
 - **Test Accuracy**: ~94.87%
-- **Error Reduction**:
-  - False Positives reduced from ~10% to ~6%.
-  - False Negatives reduced from ~8% to ~4%.
-
 
 ---
 
