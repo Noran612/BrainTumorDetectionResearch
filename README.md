@@ -98,9 +98,4 @@ cd brain-tumor-detection
 - **CAM Research**: Inspired by [Woo et al., 2018](https://arxiv.org/pdf/1807.06521v2).
 - **Dataset Contributors**: Kaggle community for publicly available MRI datasets.
 
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 
